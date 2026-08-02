@@ -1,6 +1,6 @@
 # Hi, I'm Abhinaya Kuchi 👋
 
-## Aspiring Data Analyst | AI & Data Science Enthusiast
+## Aspiring Data Analyst | AI & Machine Learning Enthusiast
 
 I am a B.Tech Artificial Intelligence and Data Science student passionate about transforming data into meaningful insights. I enjoy working with data analytics, machine learning, artificial intelligence, and building real-world projects that solve practical problems.
 
