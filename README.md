@@ -127,5 +127,5 @@ To become a skilled Data Analyst/Data Scientist by combining analytical thinking
 
 ## 📫 Connect With Me
 
-* GitHub: Your GitHub Link
-* LinkedIn: Your LinkedIn Link
+* GitHub: https://github.com/abhinayakuchi-source
+* LinkedIn: https://www.linkedin.com/in/abhinaya-kuchi-b5823b337
