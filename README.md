@@ -446,14 +446,6 @@ My objective is to turn the knowledge I gain into **measurable skills, real-worl
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 # 📌 ALL PROJECTS
 
 | # | Project | Repository |
