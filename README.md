@@ -18,6 +18,20 @@
 
 ---
 
+# 👩‍💻 ABOUT ME
+
+I'm a **B.Tech Artificial Intelligence and Data Science student** interested in using programming, data, and artificial intelligence to solve practical problems.
+
+- 🎓 B.Tech Artificial Intelligence & Data Science Student
+- 📊 Aspiring Data Analyst
+- 🤖 Artificial Intelligence & Machine Learning Enthusiast
+- 🧠 Exploring Deep Learning and Computer Vision
+- 📈 Interested in Data Visualization and Business Intelligence
+- 💻 Passionate about Python and application development
+- 🚀 Building practical and real-world projects
+- 🌱 Continuously learning and improving technical skills
+
+
 # 🧭 MY LEARNING JOURNEY
 
 My learning journey has evolved from programming fundamentals to Data Science, Artificial Intelligence, Machine Learning, and practical application development.
@@ -88,19 +102,6 @@ My current journey focuses on applying programming and analytical skills to Arti
 | 🤖 **2026** | AI & Data Science | Analytics, SQL, ML, Deep Learning, GenAI, Applications |
 
 ---
-
-# 👩‍💻 ABOUT ME
-
-I'm a **B.Tech Artificial Intelligence and Data Science student** interested in using programming, data, and artificial intelligence to solve practical problems.
-
-- 🎓 B.Tech Artificial Intelligence & Data Science Student
-- 📊 Aspiring Data Analyst
-- 🤖 Artificial Intelligence & Machine Learning Enthusiast
-- 🧠 Exploring Deep Learning and Computer Vision
-- 📈 Interested in Data Visualization and Business Intelligence
-- 💻 Passionate about Python and application development
-- 🚀 Building practical and real-world projects
-- 🌱 Continuously learning and improving technical skills
 
 ### 💡 My Approach
 
@@ -426,18 +427,16 @@ My objective is to turn the knowledge I gain into **measurable skills, real-worl
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinayakuchi-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayakuchi-source&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinayakuchi-source&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GITHUB STREAK
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhinayakuchi-source&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
 ---
 
 # 📈 CONTRIBUTION ACTIVITY
