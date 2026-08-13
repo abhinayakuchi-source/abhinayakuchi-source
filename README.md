@@ -423,26 +423,29 @@ My objective is to turn the knowledge I gain into **measurable skills, real-worl
 > **Turning data into insights, ideas into solutions, and learning into impact.**
 
 ---
+---
 
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinayakuchi-source&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinayakuchi-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayakuchi-source&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🔥 GITHUB STREAK
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhinayakuchi-source&theme=tokyonight&hide_border=true" width="80%" />
 </p>
+
 ---
 
 # 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinayakuchi-source&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinayakuchi-source&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
@@ -450,7 +453,7 @@ My objective is to turn the knowledge I gain into **measurable skills, real-worl
 # 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%" />
 </p>
 
 ---
