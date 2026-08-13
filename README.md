@@ -423,16 +423,12 @@ My objective is to turn the knowledge I gain into **measurable skills, real-worl
 > **Turning data into insights, ideas into solutions, and learning into impact.**
 
 ---
----
 
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinayakuchi-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayakuchi-source&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinayakuchi-source&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
-
----
 
 # 🔥 GITHUB STREAK
 
@@ -450,10 +446,10 @@ My objective is to turn the knowledge I gain into **measurable skills, real-worl
 
 ---
 
-# 🏆 GITHUB TROPHIES
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
