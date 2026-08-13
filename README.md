@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Abhinaya Kuchi
+# 👋 Hi, I'm Abhinaya Kuchi
 
 ### 🎓 B.Tech Artificial Intelligence & Data Science
 ### 📊 Aspiring Data Analyst | 🤖 AI & Machine Learning Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Machine+Learning+%7C+Artificial+Intelligence;Turning+Data+Into+Meaningful+Insights;Building+Real-World+Projects+with+AI+%26+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Machine+Learning+%7C+Artificial+Intelligence;Building+Data-Driven+%26+AI-Powered+Solutions;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,13 +20,15 @@
 
 # 🧭 MY LEARNING JOURNEY
 
-My learning journey has evolved from programming fundamentals to Data Science, Artificial Intelligence, Machine Learning, and real-world application development.
+My learning journey has evolved from programming fundamentals to Data Science, Artificial Intelligence, Machine Learning, and practical application development.
 
-### 🐍 2024 — PYTHON
+I believe in learning concepts, applying them through projects, and continuously improving through hands-on experience.
 
-Started my programming journey with Python and built a strong foundation in programming and problem-solving.
+## 🐍 2024 — PYTHON
 
-**Focus Areas**
+I began my programming journey with Python and developed a strong foundation in programming and problem-solving.
+
+### Focus Areas
 - Python Programming
 - Programming Fundamentals
 - Problem Solving
@@ -35,15 +37,15 @@ Started my programming journey with Python and built a strong foundation in prog
 - Pandas
 - Data Analysis Fundamentals
 
-**Milestone:** Built my foundation in programming and started exploring data-driven problem solving.
+**Milestone:** Built my programming foundation and started exploring data-driven problem solving.
 
 ---
 
-### ☕ 2025 — JAVA
+## ☕ 2025 — JAVA
 
-Expanded my programming knowledge with Java and strengthened my understanding of object-oriented programming.
+I expanded my programming knowledge with Java and strengthened my understanding of object-oriented programming and software development concepts.
 
-**Focus Areas**
+### Focus Areas
 - Java Programming
 - Object-Oriented Programming
 - Classes & Objects
@@ -52,15 +54,15 @@ Expanded my programming knowledge with Java and strengthened my understanding of
 - Exception Handling
 - Application Development
 
-**Milestone:** Strengthened my programming concepts and software development fundamentals.
+**Milestone:** Strengthened my programming concepts and understanding of structured software development.
 
 ---
 
-### 🤖 2026 — AI, DATA SCIENCE & REAL-WORLD PROJECTS
+## 🤖 2026 — AI, DATA SCIENCE & REAL-WORLD PROJECTS
 
-My current learning journey focuses on applying programming and analytical skills to Artificial Intelligence, Machine Learning, Data Science, and practical applications.
+My current journey focuses on applying programming and analytical skills to Artificial Intelligence, Machine Learning, Data Analytics, Deep Learning, and real-world applications.
 
-**Focus Areas**
+### Current Focus Areas
 - Advanced Data Analytics
 - SQL & Database Management
 - Machine Learning
@@ -73,23 +75,23 @@ My current learning journey focuses on applying programming and analytical skill
 - Cloud & Deployment
 - Real-World Project Development
 
-**Milestone:** Moving from learning individual technologies to building integrated, practical solutions.
+**Milestone:** Moving from learning individual technologies toward building integrated and practical solutions.
 
 ---
 
 ## 📅 YEAR-BY-YEAR PROGRESS
 
-| Year | Focus | Key Areas |
+| Year | Primary Focus | Key Areas |
 |---|---|---|
-| 🐍 2024 | Python | Programming, Problem Solving, NumPy, Pandas, Data Analysis |
-| ☕ 2025 | Java | OOP, Programming Concepts, Application Development |
-| 🤖 2026 | AI & Data Science | Analytics, SQL, ML, Deep Learning, GenAI, Applications |
+| 🐍 **2024** | Python | Programming, Problem Solving, NumPy, Pandas, Data Analysis |
+| ☕ **2025** | Java | OOP, Programming Concepts, Application Development |
+| 🤖 **2026** | AI & Data Science | Analytics, SQL, ML, Deep Learning, GenAI, Applications |
 
 ---
 
 # 👩‍💻 ABOUT ME
 
-I'm a **B.Tech Artificial Intelligence and Data Science student** passionate about transforming data into meaningful insights and building practical technology solutions.
+I'm a **B.Tech Artificial Intelligence and Data Science student** interested in using programming, data, and artificial intelligence to solve practical problems.
 
 - 🎓 B.Tech Artificial Intelligence & Data Science Student
 - 📊 Aspiring Data Analyst
@@ -97,10 +99,14 @@ I'm a **B.Tech Artificial Intelligence and Data Science student** passionate abo
 - 🧠 Exploring Deep Learning and Computer Vision
 - 📈 Interested in Data Visualization and Business Intelligence
 - 💻 Passionate about Python and application development
-- 🚀 Building real-world projects
-- 🌱 Continuously learning new technologies
+- 🚀 Building practical and real-world projects
+- 🌱 Continuously learning and improving technical skills
 
-> 💡 **My goal:** Combine analytical thinking, programming, and AI technologies to create impactful, data-driven solutions.
+### 💡 My Approach
+
+**Learn → Practice → Build → Analyze → Improve → Deploy**
+
+My goal is to transform what I learn into practical projects and industry-ready skills.
 
 ---
 
@@ -123,6 +129,7 @@ I'm a **B.Tech Artificial Intelligence and Data Science student** passionate abo
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
+**Areas:**  
 `Machine Learning` `Deep Learning` `Computer Vision` `Classification` `Regression` `Predictive Modeling` `Data Preprocessing` `Model Evaluation`
 
 ## 📊 DATA ANALYTICS & VISUALIZATION
@@ -134,6 +141,7 @@ I'm a **B.Tech Artificial Intelligence and Data Science student** passionate abo
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
+**Areas:**  
 `Data Cleaning` `EDA` `Data Visualization` `Statistical Analysis` `Business Analytics` `Dashboard Development`
 
 ## 🌐 WEB & APPLICATION DEVELOPMENT
@@ -170,14 +178,14 @@ I'm a **B.Tech Artificial Intelligence and Data Science student** passionate abo
 
 ## 📊 01 — SALES ANALYTICS & FORECASTING
 
-🔗 https://github.com/abhinayakuchi-source/sales-analytics-and-forecasting
+🔗 **Repository:** https://github.com/abhinayakuchi-source/sales-analytics-and-forecasting
 
-A data analytics project focused on analyzing sales performance, identifying trends, generating business insights, and exploring forecasting techniques.
+A data analytics project focused on understanding sales performance, identifying trends, generating business insights, and exploring forecasting techniques.
 
-**Focus Areas**
-- Sales Data Analysis
+### Focus Areas
 - Data Cleaning
 - Exploratory Data Analysis
+- Sales Performance Analysis
 - Trend Analysis
 - Data Visualization
 - Business Insights
@@ -189,14 +197,14 @@ A data analytics project focused on analyzing sales performance, identifying tre
 
 ## 🌱 02 — PLANTGUARD AI
 
-🔗 https://github.com/abhinayakuchi-source/PlantGuard-AI
+🔗 **Repository:** https://github.com/abhinayakuchi-source/PlantGuard-AI
 
-An AI-powered plant disease detection system using Deep Learning and image classification.
+An AI-powered plant disease detection project using Deep Learning and image classification techniques.
 
-**Highlights**
+### Highlights
 - Plant Disease Detection
-- Deep Learning
 - Image Classification
+- Deep Learning
 - Computer Vision
 - Model Prediction
 - Model Evaluation
@@ -207,11 +215,11 @@ An AI-powered plant disease detection system using Deep Learning and image class
 
 ## ⛽ 03 — GAS BILL REMINDER
 
-🔗 https://github.com/abhinayakuchi-source/Gas-Bill-Remainder
+🔗 **Repository:** https://github.com/abhinayakuchi-source/Gas-Bill-Remainder
 
-A full-stack application designed to manage gas bills and automate payment reminders.
+A full-stack application designed to manage gas bills and automate reminders for upcoming payments.
 
-**Features**
+### Features
 - User Registration & Login
 - Bill Management
 - Due-Date Tracking
@@ -226,11 +234,11 @@ A full-stack application designed to manage gas bills and automate payment remin
 
 ## 🚨 04 — DISASTER RELIEF VOLUNTEER PORTAL
 
-🔗 https://github.com/abhinayakuchi-source/Disaster-Relief-Volunteer-Portal-cc
+🔗 **Repository:** https://github.com/abhinayakuchi-source/Disaster-Relief-Volunteer-Portal-cc
 
 A web-based platform designed to connect disaster victims, volunteers, NGOs, and administrators.
 
-**Features**
+### Features
 - Volunteer Management
 - Disaster Assistance
 - NGO Coordination
@@ -243,9 +251,9 @@ A web-based platform designed to connect disaster victims, volunteers, NGOs, and
 
 ## 🐍 05 — SNAKE GAME PROJECT
 
-🔗 https://github.com/abhinayakuchi-source/Snake-Game-Project
+🔗 **Repository:** https://github.com/abhinayakuchi-source/Snake-Game-Project
 
-An interactive Snake Game application developed to demonstrate programming logic, game mechanics, and user interaction.
+An interactive Snake Game project developed to demonstrate programming logic, game mechanics, and user interaction.
 
 **Technologies:** `Python` `Game Logic` `Application Development`
 
@@ -253,11 +261,11 @@ An interactive Snake Game application developed to demonstrate programming logic
 
 ## 🎓 06 — STUDENT MANAGEMENT SYSTEM
 
-🔗 https://github.com/abhinayakuchi-source/Student-Management-System
+🔗 **Repository:** https://github.com/abhinayakuchi-source/Student-Management-System
 
-A student management application designed to manage student information and demonstrate CRUD and database concepts.
+A student management application designed to manage student information and demonstrate CRUD and database management concepts.
 
-**Focus Areas**
+### Focus Areas
 - Student Records
 - CRUD Operations
 - Database Management
@@ -267,11 +275,11 @@ A student management application designed to manage student information and demo
 
 ## 🧮 07 — SIMPLE CALCULATOR
 
-🔗 https://github.com/abhinayakuchi-source/SimpleCalculator
+🔗 **Repository:** https://github.com/abhinayakuchi-source/SimpleCalculator
 
-A calculator application implementing arithmetic operations and interactive user input.
+A simple calculator application implementing arithmetic operations and interactive user input.
 
-**Technologies:** `Programming Fundamentals` `Logic Building` `Application Development`
+**Focus:** `Programming Fundamentals` `Logic Building` `Application Development`
 
 ---
 
@@ -282,15 +290,13 @@ A calculator application implementing arithmetic operations and interactive user
 | 🌱 PlantGuard AI | Deep Learning | **99.83% prediction confidence** on a test image |
 | ♻️ Smart Waste Classification | Deep Learning | **88% validation accuracy** |
 | 📊 Sales Analytics & Forecasting | Data Analytics | Forecasting Project |
-| 🔍 Fraud Detection | Machine Learning | Classification Project |
-| 💰 Salary Prediction | Machine Learning | Regression Project |
 | 🚨 Disaster Relief Portal | Web Development | Full Application |
 | ⛽ Gas Bill Reminder | Full Stack | Full Application |
-| 🎓 Student Management | Application | CRUD / Database Project |
+| 🎓 Student Management System | Application | CRUD / Database Project |
 | 🐍 Snake Game | Application | Interactive Game |
 | 🧮 Simple Calculator | Application | Utility Application |
 
-> **Important:** The 99.83% value for PlantGuard AI represents prediction confidence for a test image, not overall model accuracy.
+> **Note:** The 99.83% value for PlantGuard AI represents prediction confidence for a test image, not overall model accuracy.
 
 ---
 
@@ -312,7 +318,9 @@ A calculator application implementing arithmetic operations and interactive user
 
 # 📚 CURRENTLY LEARNING
 
-### 🔥 2026 FOCUS
+My current focus is on strengthening the technical skills required to build reliable, useful, and data-driven applications.
+
+### 2026 Focus
 
 - 📊 Advanced Data Analytics
 - 🗄️ Advanced SQL
@@ -325,10 +333,6 @@ A calculator application implementing arithmetic operations and interactive user
 - 🌐 AI Application Development
 - ☁️ Cloud & Deployment
 
-### 🎯 LEARNING APPROACH
-
-**LEARN → PRACTICE → BUILD → TEST → IMPROVE → DEPLOY → CONTRIBUTE**
-
 ---
 
 # 💼 INTERNSHIPS & PROFESSIONAL DEVELOPMENT
@@ -336,11 +340,11 @@ A calculator application implementing arithmetic operations and interactive user
 ### 💼 THIRANEX
 **Data Cleaning & Visualization Internship**
 
-Focused on data cleaning, preparation, analysis, and visualization.
+Focused on practical experience with data cleaning, preparation, analysis, and visualization.
 
 ### 💻 INTERNPE
 
-Professional internship experience focused on strengthening practical technical and project development skills.
+Internship experience focused on strengthening practical technical and project development skills.
 
 ### 🚀 SYNTECXHUB
 
@@ -361,64 +365,133 @@ Internship experience focused on developing technical and software development s
 
 ---
 
-# 🎯 CAREER ROADMAP
+# 🚀 2026 — PROFESSIONAL DEVELOPMENT
 
-```text
-📊 DATA ANALYTICS
-       ↓
-🤖 MACHINE LEARNING
-       ↓
-🧠 DEEP LEARNING
-       ↓
-✨ GENERATIVE AI
-       ↓
-🚀 AI APPLICATIONS
-       ↓
-☁️ DEPLOYMENT & PRODUCTION
+My focus for 2026 is to move beyond learning individual technologies and develop the ability to design, build, evaluate, and deploy practical data and AI solutions.
 
-🚀 2026 GOALS
- Strengthen Machine Learning fundamentals
- Build advanced Deep Learning projects
- Improve SQL & Data Analytics
- Master Data Visualization
- Learn Generative AI
- Build AI-powered applications
- Deploy projects online
- Contribute to Open Source
- Gain industry experience
- Build a strong professional portfolio
- Improve DSA and problem-solving skills
-📊 GITHUB ANALYTICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhinayakuchi-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayakuchi-source&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
-🔥 GITHUB STREAK
-<p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhinayakuchi-source&theme=tokyonight&hide_border=true" /> </p>
-📈 CONTRIBUTION ACTIVITY
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinayakuchi-source&theme=tokyo-night&hide_border=true" width="95%"/> </p>
-🏆 GITHUB TROPHIES
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="90%"/> </p>
-📌 ALL PROJECTS
-#	Project	Repository
-01	📊 Sales Analytics & Forecasting	View Repository
-02	🧮 Simple Calculator	View Repository
-03	🐍 Snake Game	View Repository
-04	🎓 Student Management System	View Repository
-05	🚨 Disaster Relief Volunteer Portal	View Repository
-06	⛽ Gas Bill Reminder	View Repository
-07	🌱 PlantGuard AI	View Repository
-🌟 WHAT I'M BUILDING TOWARD
-        📊 DATA
-          ↓
-     🔎 INSIGHTS
-          ↓
-     🤖 INTELLIGENCE
-          ↓
-      🚀 SOLUTIONS
-          ↓
-       🌍 IMPACT
+### 01 — DATA & ANALYTICS
+- Strengthen advanced SQL and analytical problem-solving
+- Develop stronger skills in exploratory and statistical analysis
+- Create data-driven dashboards and business insights
 
-Turning data into insights, ideas into solutions, and learning into impact.
+### 02 — ARTIFICIAL INTELLIGENCE
+- Deepen my understanding of Machine Learning algorithms
+- Build practical Deep Learning and Computer Vision solutions
+- Explore Generative AI, LLMs, and AI-powered applications
 
-🤝 LET'S CONNECT
-<p align="center"> <a href="https://github.com/abhinayakuchi-source"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/abhinaya-kuchi-b5823b337"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> <p align="center"> <b>💡 Turning Data Into Insights • Building AI Solutions • Learning Every Day</b> </p> <p align="center"> ⭐ Thanks for visiting my profile! </p> ```
+### 03 — ENGINEERING & DEPLOYMENT
+- Improve software development and project architecture skills
+- Deploy applications and machine learning models
+- Learn production-oriented development and cloud fundamentals
 
-This time it is literally one single code box from the first # 👋 Hi to the final Thanks for visiting.
+### 04 — PROBLEM SOLVING
+- Strengthen Data Structures & Algorithms
+- Improve coding consistency and technical problem-solving
+- Practice writing clean, efficient, and maintainable code
+
+### 05 — PROFESSIONAL GROWTH
+- Build production-quality projects for my portfolio
+- Contribute to Open Source
+- Gain practical industry experience
+- Continue developing a strong professional presence through GitHub and LinkedIn
+
+### 🎯 2026 DIRECTION
+
+**Learn → Build → Analyze → Deploy → Improve → Contribute**
+
+My objective is to turn the knowledge I gain into **measurable skills, real-world projects, and industry-ready experience.**
+
+---
+
+# 🌟 WHAT I'M BUILDING TOWARD
+
+<p align="center">
+
+📊 <b>DATA</b>
+<br>↓<br>
+🔎 <b>INSIGHTS</b>
+<br>↓<br>
+🤖 <b>INTELLIGENCE</b>
+<br>↓<br>
+🚀 <b>SOLUTIONS</b>
+<br>↓<br>
+🌍 <b>IMPACT</b>
+
+</p>
+
+> **Turning data into insights, ideas into solutions, and learning into impact.**
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinayakuchi-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayakuchi-source&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 GITHUB STREAK
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhinayakuchi-source&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinayakuchi-source&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinayakuchi-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="90%"/>
+</p>
+
+---
+
+# 📌 ALL PROJECTS
+
+| # | Project | Repository |
+|---|---|---|
+| 01 | 📊 Sales Analytics & Forecasting | [View Repository](https://github.com/abhinayakuchi-source/sales-analytics-and-forecasting) |
+| 02 | 🧮 Simple Calculator | [View Repository](https://github.com/abhinayakuchi-source/SimpleCalculator) |
+| 03 | 🐍 Snake Game | [View Repository](https://github.com/abhinayakuchi-source/Snake-Game-Project) |
+| 04 | 🎓 Student Management System | [View Repository](https://github.com/abhinayakuchi-source/Student-Management-System) |
+| 05 | 🚨 Disaster Relief Volunteer Portal | [View Repository](https://github.com/abhinayakuchi-source/Disaster-Relief-Volunteer-Portal-cc) |
+| 06 | ⛽ Gas Bill Reminder | [View Repository](https://github.com/abhinayakuchi-source/Gas-Bill-Remainder) |
+| 07 | 🌱 PlantGuard AI | [View Repository](https://github.com/abhinayakuchi-source/PlantGuard-AI) |
+
+---
+
+# 🤝 LET'S CONNECT
+
+<p align="center">
+
+  <a href="https://github.com/abhinayakuchi-source">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/abhinaya-kuchi-b5823b337">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+  📊 <b>Data Analytics</b> • 🤖 <b>Artificial Intelligence</b> • 🧠 <b>Machine Learning</b> • 🚀 <b>Continuous Learning</b>
+</p>
+
+<p align="center">
+  <b>💡 Turning Data Into Insights • Building AI Solutions • Learning Every Day</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
